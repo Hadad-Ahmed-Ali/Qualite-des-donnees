@@ -21,7 +21,7 @@
              1) Importation des données test
              2) Traitement des valeurs manquantes
              3) Transformation des variables des types objets en types int
-      VII- Prédiction de la satisfaction d'un nouveau passager
+      VII- Modèle de prédiction de la satisfaction d'un nouveau passager
              1) Construction du classeur K plus plus proche voisins
              2) Recherche de la valeurs de K qui fournit un meilleur score
              3) Généralisation du modèle K plus plus proche voisins
