@@ -4,7 +4,7 @@
 
       I- Présentation du jeu des données et objectifs attendus
       II- Des bibliothèques important pour la manipulation des données
-      III - Importation du jeu des données
+      III - Importation du jeu des données et description des données
              1) Répartition des variables du jeu des données: donnés d’entraînement et test
              2) Repartions des variables
              3) Division des différents données d’enfantinement
